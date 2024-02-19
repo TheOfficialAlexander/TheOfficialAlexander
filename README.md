@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheOfficialAlexander
-- 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in Cloud Engineering
+- 🌱 I’m currently learning Python, AWS, Azure and PostGrest
+- 💞️ I’m looking to collaborate on nothing as of yet
 - 📫 How to reach me alexander.n.anastasiou@outlook.com
 
 <!---
